@@ -1,4 +1,4 @@
 # githubdemo
 this is my first git repository.
 <br>
-Author -tony Arya
+Author -tony Arya(xyz company)
